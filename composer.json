@@ -1,0 +1,13 @@
+{
+    "name": "dasha/test",
+    "description": "test project",
+    "require": {
+        "behat/behat": "^3.4"
+    },
+    "authors": [
+        {
+            "name": "Dasha Denisova",
+            "email": "denisovadasha@mail.ru"
+        }
+    ]
+}
